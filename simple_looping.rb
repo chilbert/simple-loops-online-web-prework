@@ -55,4 +55,3 @@ def for_iterator(number_of_times)
   for number in counter
     puts phrase
 end
-end
